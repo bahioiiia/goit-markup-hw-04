@@ -217,6 +217,17 @@ a {
     color: #434455;
 }
 
+.features-icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    border: 1px solid #8e8f99;
+}
+
 /*=======TEAM========*/
 .team {
     background-color: #f4f4fd;
