@@ -275,7 +275,7 @@ a {
 }
 
 .team-item-plate {
-    padding: 32px 0;
+    padding: 32px 16px;
 }
 
 .team-item-name {
@@ -295,6 +295,7 @@ a {
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
+        margin-bottom: 8px;
 }
 
 .team-social-icon-list {
