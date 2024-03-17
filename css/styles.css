@@ -368,6 +368,10 @@ a {
     align-items: baseline;
 }
 
+.footer-logo-box{
+    margin-right: 120px;
+}
+
 .footer-link{
     display: inline-block;
     margin-bottom: 16px;
