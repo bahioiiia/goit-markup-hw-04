@@ -177,7 +177,7 @@ a {
     min-width: 169px;
     height: 56px;
     margin: 0 auto;
-
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-button:hover, .hero-button:focus {
@@ -364,6 +364,8 @@ a {
 .footer{
     background-color: #2e2f42;
     padding: 100px 0;
+    display: flex;
+    align-items: baseline;
 }
 
 .footer-link{
